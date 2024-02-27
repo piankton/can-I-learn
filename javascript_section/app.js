@@ -1,3 +1,11 @@
+console.log(`command to use
+"new" -- Add A ToDo
+"quit" -- List all ToDo
+"delete" -- Remove specific list ToDo
+"list" -- Quit the app
+`);
+
+
 let listtodo = [];
 let prompttd = prompt("input command");
 
@@ -31,7 +39,7 @@ while(prompttd != "quit"){
 
 
 
-
+    //ask for new command
     prompttd = prompt("input command");
 }
-console.log("hi");
+console.log("Good bye!");

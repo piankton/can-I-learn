@@ -1,0 +1,1 @@
+this is first micro project to learn javascrpt basics with udemy in this section a teacher want to use only loops array or eneythings but wont touch a html  i create todolist app in browser console you can addtodo list delete and quit app this app will appeer in console brower(f12)
